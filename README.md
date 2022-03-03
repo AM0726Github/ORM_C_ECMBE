@@ -19,6 +19,8 @@ This app is API server, built on Express.js that uses ORM to manipulate database
 
 Video: [Download Local File](https://github.com/AM0726Github/ORM_C_ECMBE/) | [Google Drive](https://drive.google.com/file/d/1IPvICsyt1COf4kIaUw9DNo9mBIHt0Okv/view?usp=sharing)
 
+[![Click link to view video](./assets/images/WalkTrough.gif)](https://drive.google.com/file/d/1HNT_YkAEMG9C6MCqczNAFqgo9o3pJ24c/view?usp=sharing)
+
 ### API Endpoints
 
 The following describes available API endpoints.
